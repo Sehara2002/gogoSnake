@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.heading {
+
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 105px;
+    line-height: 130%;
+
+}
+
+.subheading {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.container_1 {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 0px;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+
+label{
+    font-size: 30px;
+    margin-bottom: 0px;
+
+}
+.textfield {
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 0px;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+}
+
+.btn {
+    font-size: 25px;
+   
+    
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+.snake_1{
+    color: rgb(67, 253, 43);
+    }
+.snake_2{
+    color: rgb(43, 121, 255);
+}
